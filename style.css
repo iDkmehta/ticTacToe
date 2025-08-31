@@ -8,7 +8,7 @@ body {
 /*   background: linear-gradient(#065a60, #331e38); */
   text-align: center;
   color: white;
-  height: 500vh;
+/*   height: 500vh; */
 }
 
 .container {
@@ -84,5 +84,6 @@ body {
     color: #6b2725b1;
 
 }
+
 
 
