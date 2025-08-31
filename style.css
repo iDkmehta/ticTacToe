@@ -4,8 +4,8 @@
 }
 
 body {
-  /* background-color: #331e38; */
-  background: linear-gradient(#065a60, #331e38);
+  background-color: #331e38;
+/*   background: linear-gradient(#065a60, #331e38); */
   text-align: center;
   color: white;
   height: 500vh;
@@ -84,4 +84,5 @@ body {
     color: #6b2725b1;
 
 }
+
 
