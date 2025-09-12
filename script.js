@@ -67,7 +67,7 @@ const enableBoxes = () => {
 };
 
 const showWinner = (winner) => {
-  msg.innerText = `Congratulations, Winner is ${winner}.\n Dedicated To Vaibhav Kushwaha `;
+  msg.innerText = `Congratulations, Winner is ${winner}.\n`;
   msgContainer.classList.remove("hide");
   disableBoxes();
 };
@@ -88,4 +88,5 @@ const checkWinner = () => {
 };
 
 newGameBtn.addEventListener("click", resetGame);
+
 resetBtn.addEventListener("click", resetGame);
